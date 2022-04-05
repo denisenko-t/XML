@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Bug report>
+<Project>ClientBase</Project>
+<Summary>Main Page. Wrong text label.</Summary>
+<Components>None</Components>
+<Description>AR: Button have a label Start now, ER: Button have a label Register now</Description>
+<Environment>Windows 10 Pro Version 1803 Chrome Version 79.0.3945.130 (Official Build) (64-bit)</Environment>
+<Priority>Lowest</Priority>
+</Bug report> 
